@@ -2,13 +2,13 @@
   "name": "realtime",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "engines": {
     "node": "20.x"
   },
   "scripts": {
-    "server": "node server.js",
-    "start": "node server.js"
+    "server": "node index.js",
+    "start": "node index.js"
   },
   "type": "module",
   "keywords": [],
