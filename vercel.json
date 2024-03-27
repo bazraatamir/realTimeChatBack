@@ -4,7 +4,11 @@
   "routes": [
     {
       "src": "/(.*)",
+<<<<<<< HEAD
       "dest": "/server.js"
+=======
+      "dest": "/index.js"
+>>>>>>> 333d37c82f54ab8e6227285fa51af4ba8ca23039
     }
   ]
 }
